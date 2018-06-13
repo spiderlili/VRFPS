@@ -1,2 +1,2 @@
 # VRFPS
-Unreal Engine Prototype
+Unreal Engine Prototype: optimised shooter
